@@ -11,19 +11,19 @@ The project is about REST API implementation in Java using SpringBoot framework.
 
 ### Prerequisites
 
-1. Downlaod Java version 1.8
-2. Downlaod SpringToolSuite version 4.6.0
-3. Downlaod Apache Tomcat Server 8.5 
-4. Install Postman REST Client
+* Downlaod Java version 1.8
+* Downlaod SpringToolSuite version 4.6.0
+* Downlaod Apache Tomcat Server 8.5 
+* Install Postman REST Client
 
 
 ## Running the tests
 
-1.Run the PlatformApiDataApplication.java as JavaApplication.
-2.Open Postman and send client request to REST API.
+* Run the PlatformApiDataApplication.java as JavaApplication.
+* Open Postman and send client request to REST API.
 
 ### Break down into end to end tests
-
+https://github.com/bharatprakashparakh/Kaiburr-Task1/issues/1#issue-594451680
 
 ### And coding style tests
 
