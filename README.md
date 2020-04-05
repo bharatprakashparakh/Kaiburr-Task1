@@ -1,5 +1,5 @@
 # Kaiburr-Task1
-Task1 : Java REST API example
+Task1 : Java REST API
 
 # Project Title
 
@@ -24,11 +24,15 @@ The project is about REST API implementation in Java using SpringBoot framework.
 
 ### Break down into end to end tests
 1. Find all platforms available.[GET Request]
+
 ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/GET%20ALL%20ip.PNG)
 
 2. Create a platform by mentioning platform object details.[POST Reuest]
+
+Input
 ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/POST%20ip.PNG)
 
+Output
 ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/POST%20op.PNG)
 
 3. Find a Platform with given Id [GET Request]
