@@ -1,5 +1,5 @@
-# Kaiburr-Task1
-Task1 : Java REST API
+# Java REST API
+Task1 : Kaiburr Task1
 
 # Project Title
 
@@ -35,7 +35,7 @@ The project is about REST API implementation in Java using SpringBoot framework.
   Output
   ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/POST%20op.PNG)
 
-* Find a Platform by mentioning Id in URL[GET Request]
+* **Find a Platform by mentioning Id in URL[GET Request]**
 
   Input
   ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/GET%20by%20id%20ip.PNG)
@@ -43,11 +43,11 @@ The project is about REST API implementation in Java using SpringBoot framework.
   Output
   ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/GET%20by%20id%20op.PNG)
   
- * Returns an error as response if platform with given id is not present in list.
+ * **Returns an error as response if platform with given id is not present in list.**
  
   ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/Get%20by%20id%20error.PNG)
- 
-* Find a platform by mentioning name in URL[GET Request]
+  
+* **Find a platform by mentioning name in URL[GET Request]**
 
    Get a single platform as output . 
   ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/GET%20by%20%20name.PNG)
@@ -55,11 +55,11 @@ The project is about REST API implementation in Java using SpringBoot framework.
   Get a list of Platform with mentioned name
   ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/GET%20by%20%20name%20list.PNG)
 
-* Returns an error as response if platform with given name is not present in list[GET Request]
+* **Returns an error as response if platform with given name is not present in list[GET Request]**
 
   ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/GET%20by%20%20name%20error.PNG)
  
-* Update a platform with given details [PUT]
+* **Update a platform with given details [PUT]**
   
   Input
   ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/update.PNG)
@@ -67,7 +67,7 @@ The project is about REST API implementation in Java using SpringBoot framework.
   Output
   ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/after%20update.PNG)
   
-* Delete a platform with given Id. [DELETE]
+* **Delete a platform with given Id. [DELETE]**
   
   Input
   ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/delete.PNG)
@@ -75,25 +75,6 @@ The project is about REST API implementation in Java using SpringBoot framework.
   Output
   ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/after%20delete.PNG)
   
-
-   
- 
- 
-
-  
-  
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
