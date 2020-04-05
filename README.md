@@ -23,7 +23,7 @@ The project is about REST API implementation in Java using SpringBoot framework.
 * Open Postman and send client request to REST API.
 
 ### Break down into end to end tests
-https://github.com/bharatprakashparakh/Kaiburr-Task1/issues/1#issue-594451680
+![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/GET%20ALL%20ip.PNG)
 
 ### And coding style tests
 
