@@ -40,7 +40,7 @@ public class PlatformController {
     //Find Platform with unique id mentioned in url	
     @GetMapping("/platforms/{id}")
 
-    public Platform getTopic(@PathVariable int id) throws ServiceException
+    public Platform getPlatform(@PathVariable int id) throws ServiceException
 	{
 	
     return platformservice.getPlatform(id);
