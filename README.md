@@ -23,23 +23,62 @@ The project is about REST API implementation in Java using SpringBoot framework.
 * Open Postman and send client request to REST API.
 
 ### Break down into end to end tests
-1. Find all platforms available.[GET Request]
+* **Find all platforms available.[GET Request]**
 
 ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/GET%20ALL%20ip.PNG)
 
-2. Create a platform by mentioning platform object details.[POST Reuest]
+* **Create a platform by mentioning platform object details.[POST Reuest]**
 
-Input
-![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/POST%20ip.PNG)
+  Input
+  ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/POST%20ip.PNG)
 
-Output
-![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/POST%20op.PNG)
+  Output
+  ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/POST%20op.PNG)
 
-3. Find a Platform with given Id [GET Request]
+* Find a Platform by mentioning Id in URL[GET Request]
 
- ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/GET%20by%20id%20ip.PNG)
+  Input
+  ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/GET%20by%20id%20ip.PNG)
  
- ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/GET%20by%20id%20op.PNG)
+  Output
+  ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/GET%20by%20id%20op.PNG)
+  
+ * Returns an error as response if platform with given id is not present in list.
+ 
+  ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/Get%20by%20id%20error.PNG)
+ 
+* Find a platform by mentioning name in URL[GET Request]
+
+   Get a single platform as output . 
+  ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/GET%20by%20%20name.PNG)
+  
+  Get a list of Platform with mentioned name
+  ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/GET%20by%20%20name%20list.PNG)
+
+* Returns an error as response if platform with given name is not present in list[GET Request]
+
+  ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/GET%20by%20%20name%20error.PNG)
+ 
+* Update a platform with given details [PUT]
+  
+  Input
+  ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/update.PNG)
+  
+  Output
+  ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/after%20update.PNG)
+  
+* Delete a platform with given Id. [DELETE]
+  
+  Input
+  ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/delete.PNG)
+  
+  Output
+  ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/after%20delete.PNG)
+  
+
+   
+ 
+ 
 
   
   
