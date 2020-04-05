@@ -19,7 +19,7 @@ The project is about REST API implementation in Java using SpringBoot framework.
 
 ## Running the tests
 
-* Run the PlatformApiDataApplication.java as JavaApplication.
+* Run the platform-api-data/src/main/java/io/glacier/PlatformApiDataApplication.java as JavaApplication.
 * Open Postman and send client request to REST API.
 
 ### Break down into end to end tests
