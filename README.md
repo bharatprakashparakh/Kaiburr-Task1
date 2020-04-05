@@ -3,7 +3,7 @@ Task1 : Kaiburr Task1
 
 # Project Title
 
-The project is about REST API implementation in Java using SpringBoot framework.THe application provides a REST API with endpoints for searching,creating ,deleting and updating “server” objects. The variety of Software Platforms are available as a resource on the server side.The REST API are created and client can request for a resource over this URL. 
+The project is about REST API implementation in Java using SpringBoot framework.The application provides a REST API with endpoints for searching,creating ,deleting and updating “server” objects. The variety of Software Platforms are available as a resource on the server side.The REST API are created and client can request for a resource over this URL. 
 
 ## Getting Started
 
