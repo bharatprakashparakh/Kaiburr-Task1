@@ -15,14 +15,17 @@ The project is about REST API implementation in Java using SpringBoot framework.
 * Downlaod SpringToolSuite version 4.6.0
 * Downlaod Apache Tomcat Server 8.5 
 * Install Postman REST Client
+* Downlaod Mongo Database 4.2.5
 
 
 ## Running the tests
 
+* Run the mongod server at port 27017 using "mongod command"
 * Run the platform-api-data/src/main/java/io/glacier/PlatformApiDataApplication.java as JavaApplication.
 * Open Postman and send client request to REST API.
 
 ### Break down into end to end tests
+
 * **Find all platforms available.[GET Request]**
 
 ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/GET%20ALL%20ip.PNG)
@@ -74,6 +77,10 @@ The project is about REST API implementation in Java using SpringBoot framework.
   
   Output
   ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/after%20delete.PNG)
+  
+  * **Collection in a Mongo Database**
+   
+     ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/mongod.PNG)
   
 
 ## Built With
