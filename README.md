@@ -23,7 +23,22 @@ The project is about REST API implementation in Java using SpringBoot framework.
 * Open Postman and send client request to REST API.
 
 ### Break down into end to end tests
+1. Find all platforms available.[GET Request]
 ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/GET%20ALL%20ip.PNG)
+
+2. Create a platform by mentioning platform object details.[POST Reuest]
+![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/POST%20ip.PNG)
+
+![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/POST%20op.PNG)
+
+3. Find a Platform with given Id [GET Request]
+
+ ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/GET%20by%20id%20ip.PNG)
+ 
+ ![](https://github.com/bharatprakashparakh/Kaiburr-Task1/blob/master/Images/Kaiburr%20Tasks/GET%20by%20id%20op.PNG)
+
+  
+  
 
 ### And coding style tests
 
