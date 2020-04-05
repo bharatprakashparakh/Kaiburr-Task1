@@ -92,7 +92,7 @@ The project is about REST API implementation in Java using SpringBoot framework.
 
 Contributions are welcome.
 
- ## Authors
+ ## Author
 
 * **Bharat Prakash Parakh** 
 
